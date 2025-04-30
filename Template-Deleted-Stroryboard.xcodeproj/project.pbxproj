@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6BF29DF72DC28751009FCC63 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BF29DF62DC28751009FCC63 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		6BF29D652DC2620C009FCC63 /* Template-Deleted-Stroryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Template-Deleted-Stroryboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BF29DF62DC28751009FCC63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		6BF29D5C2DC2620C009FCC63 = {
 			isa = PBXGroup;
 			children = (
+				6BF29DF62DC28751009FCC63 /* README.md */,
 				6BF29D672DC2620C009FCC63 /* Template-Deleted-Stroryboard */,
 				6BF29D662DC2620C009FCC63 /* Products */,
 			);
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF29DF72DC28751009FCC63 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
